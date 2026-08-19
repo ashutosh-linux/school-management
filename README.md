@@ -23,12 +23,6 @@ A comprehensive, offline-first desktop application engineered to streamline dail
 *   **📥 Excel Bulk Operations:** Seamlessly import hundreds of students at once using `.xlsx` templates.
 *   **💾 Secure & Local:** Runs entirely offline using SQLite, with automated localized backups ensuring maximum data privacy and zero reliance on cloud subscriptions.
 
-## 📸 Screenshots
-
-*(Add screenshots of your application here by placing images in an `assets` folder!)*
-> `![Dashboard](assets/dashboard.png)`
-> `![ID Card Generator](assets/id_cards.png)`
-> `![Admission Form](assets/admission.png)`
 
 ## 🛠️ Tech Stack & Libraries
 
